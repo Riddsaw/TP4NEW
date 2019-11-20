@@ -1,4 +1,4 @@
-var cacheName = '';
+var cacheName = 'Scanette';
 var contentToCache =["./index.html",
 "./manifest.json",
 "./produits.csv",
